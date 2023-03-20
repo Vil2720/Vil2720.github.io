@@ -1,3 +1,7 @@
+.head {
+    color:lightgray;
+    text-align:center;
+}
 body {
     background:lightseagreen
 }
@@ -12,4 +16,9 @@ body {
 .assignment img {
     width: 200px;
     padding: 10px;
+}
+
+.h1 {
+    color:gray;
+    text-align:center;
 }
