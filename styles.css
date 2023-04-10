@@ -1,12 +1,16 @@
 body {
-    background:lightseagreen
+    background:rgb(255, 255, 118)
 }
 
-.assignment {
+.assignments {
     display:flex;
+    flex-wrap:wrap;
+}
+.assignment {
+    width:22%;
     padding:10px;
     margin: 10px;
-    background:aqua;
+    background:aqua
 }
 
 .assignment img {
@@ -20,6 +24,6 @@ h1 {
 }
 
 head {
-    color:aqua;
+    color:lightyellow;
     text-align:center;
 }
